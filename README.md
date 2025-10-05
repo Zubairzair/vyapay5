@@ -91,7 +91,6 @@ HisaabPlus is a comprehensive, production-ready business management solution bui
 ---
 
 ## 🚀 **Getting Started**
-
 ### **Prerequisites**
 - Flutter SDK (3.0 or higher)
 - Dart SDK (3.0 or higher)
@@ -102,9 +101,7 @@ HisaabPlus is a comprehensive, production-ready business management solution bui
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/hisaab_plus.git
-   cd hisaab_plus
-   ```
+  
 
 2. **Install dependencies:**
    ```bash
@@ -200,13 +197,6 @@ flutter drive --target=test_driver/app.dart
 
 ## 🤝 **Contributing**
 
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ### **Development Guidelines**
 - Follow [Flutter style guide](https://dart.dev/guides/language/effective-dart/style)
@@ -241,12 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Support & Contact**
 
-- **Email:** support@hisaabplus.com
-- **Website:** https://hisaabplus.com
-- **Documentation:** https://docs.hisaabplus.com
-- **Community:** https://discord.gg/hisaabplus
-
----
 
 <div align="center">
 
