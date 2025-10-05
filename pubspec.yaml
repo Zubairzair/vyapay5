@@ -1,0 +1,101 @@
+name: hisaab_plus
+description: HisaabPlus v3.2 - Production-Ready Business Management Solution | Advanced PDF Sharing | Unified Parties System | PKR Currency | Professional Reports & Analytics | Responsive UI
+
+publish_to: 'none'
+version: 3.2.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  provider: ^6.1.2
+
+  # Database - Optimized for Production
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0
+  sqflite_common_ffi_web: ^0.4.0
+  path: ^1.9.0
+
+  # Charts and Analytics - Updated
+  fl_chart: ^0.69.0
+
+  # Date & Time - Compatible
+  intl: ^0.19.0
+
+  # UI Components - Latest
+  cupertino_icons: ^1.0.8
+  material_design_icons_flutter: ^7.0.7296
+
+  # Enhanced PDF Generation - Production Ready
+  pdf: ^3.11.1
+  printing: ^5.13.0
+
+  # File Operations - Latest
+  path_provider: ^2.1.4
+
+  # Image Operations - Updated
+  image_picker: ^1.1.2
+
+  # Permissions - Latest
+  permission_handler: ^11.3.1
+
+  # HTTP for API calls - Updated
+  http: ^1.2.2
+
+  # Local Storage - Latest
+  shared_preferences: ^2.3.2
+
+  # Firebase Core - Production Ready
+  firebase_core: ^3.6.0
+
+  # Advanced Features - Updated
+  url_launcher: ^6.3.1
+  package_info_plus: ^8.0.2
+  device_info_plus: ^10.1.2
+  
+  # WhatsApp Integration - Latest
+  share_plus: ^10.0.3
+  
+  # Google Drive Cloud Sync - Updated
+  google_sign_in: ^6.2.1
+  googleapis: ^13.2.0
+  
+  # Connectivity & Network - Latest
+  connectivity_plus: ^6.0.5
+  
+  # Advanced Charts for Analytics - Updated
+  syncfusion_flutter_charts: ^27.1.51
+  
+  # Notifications - Latest
+  flutter_local_notifications: ^18.0.1
+  
+  # Web Support for Web Dashboard - Latest
+  universal_html: ^2.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.13
+
+flutter:
+  uses-material-design: true
+
+  # App assets
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/logos/
+
+  # Custom fonts (if needed)
+  # fonts:
+  #   - family: Inter
+  #     fonts:
+  #       - asset: assets/fonts/Inter-Regular.ttf
+  #       - asset: assets/fonts/Inter-Bold.ttf
+  #         weight: 700
