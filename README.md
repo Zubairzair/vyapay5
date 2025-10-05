@@ -36,6 +36,7 @@ HisaabPlus is a comprehensive, production-ready business management solution bui
 - ✅ **Transaction history** and payment tracking
 - ✅ **Contact management** with WhatsApp integration
 
+git status
 ### 📊 **Professional Dashboard & Analytics**
 - ✅ **Real-time business metrics** and KPIs
 - ✅ **Interactive charts** using FL Chart and Syncfusion
