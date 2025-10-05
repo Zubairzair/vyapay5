@@ -895,3 +895,8 @@
 # uploads/
 # downloads/
 
+# ----------------------------------------------------------------------------
+# Flutter project: allow source access to root lib/ for tooling
+# (Earlier patterns like **/lib/ can hide Flutter sources from tools)
+!/lib/**
+
